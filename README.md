@@ -3,7 +3,9 @@ Integrate Plaid API using Django
 
 ## Hot to run:
 ##### 1- Create virtual environment using virtualenvwrapper or any other.
-##### 2- Clone the repository using command 'git clone https://github.com/sudo1729/Django_Plaid_API_Integration.git'
+##### 2- Clone the repository using command 
+        git clone https://github.com/sudo1729/Django_Plaid_API_Integration.git
+        
 ##### Imp: Create file inside Plaid directory namely 'secret_keys.py', put your plaid secret key inside that file as-
 
 ######  
